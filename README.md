@@ -1,4 +1,4 @@
-#Simpre DENO Rest API crud that saves data on postgres.
+# Simple DENO Rest API crud that saves data on postgres.
 
 **to run:**
 ```
